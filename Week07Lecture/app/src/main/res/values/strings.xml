@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Week07-Lecture</string>
+    <string name="math_card_title">MATH</string>
+    <string name="math_card_imagedesc">Math Image</string>
+    <string name="math_card_desc"><b>Mathematics</b> <i>(from Greek: μάθημα, máthēma, \'knowledge, study, learning\')</i> includes the study of such topics as numbers (arithmetic and number theory), formulas and related structures (algebra), shapes and spaces in which they are contained (geometry), and quantities and their changes (calculus and analysis). There is no general consensus about its exact scope or epistemological status.</string>
+</resources>
